@@ -1,14 +1,2 @@
 # Projeler
- Console.WriteLine("Eni giriniz : ");
- double en;
- en = Convert.ToDouble(Console.ReadLine());
- Console.WriteLine("Boyu giriniz : ");
- double boy;
- boy = Convert.ToDouble(Console.ReadLine());
- double cevre;
- cevre = 2 * (boy + en);
- double alan;
- alan = boy * en;
- Console.WriteLine("Dikdörtgenin çevresi :" + cevre);
- Console.WriteLine("Dikdötgenin alanı : " + alan);
-            
+
